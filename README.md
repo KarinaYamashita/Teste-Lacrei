@@ -1,5 +1,9 @@
 # Automação de testes com Cypress no fluxo de criação de cadastro de nova pessoa usuária
 
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white
+
 Esse repositório contém uma aplicação para testes E2E da página: **[Lacrei Saúde](https://frontend-lacrei-pessoa-usuaria.vercel.app/)**. A aplicação foi desenvolvida em Javascript, utilizando o framework Cypress.
 
 ## Instalação
@@ -10,6 +14,8 @@ Utilizando o Terminal/Console:
 2. Acesse a pasta raiz do projeto
 
 3. Execute o comando: `npm run cypress:open`
+
+4. Ao abrir o Cypress abrir o arquivo testeLacrei.cy.js
 
 ## Autora :princess:
 
